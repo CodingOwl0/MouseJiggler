@@ -1,0 +1,14 @@
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\obj\Release\MouseJiggler.vbproj.AssemblyReference.cache
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\obj\Release\MouseJiggler.vbproj.SuggestedBindingRedirects.cache
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\obj\Release\MouseJiggler.Main.resources
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\obj\Release\MouseJiggler.Resources.resources
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\obj\Release\MouseJiggler.vbproj.GenerateResource.cache
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\obj\Release\MouseJiggler.exe.licenses
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\bin\Release\MouseJiggler.exe.config
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\bin\Release\MouseJiggler.exe
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\bin\Release\MouseJiggler.pdb
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\bin\Release\MouseJiggler.xml
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\obj\Release\MouseJiggler.vbproj.CoreCompileInputs.cache
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\obj\Release\MouseJiggler.exe
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\obj\Release\MouseJiggler.xml
+C:\Users\franzisko\source\repos\_Abgeschlossene Projekte\MouseJiggler\MouseJiggler\obj\Release\MouseJiggler.pdb
